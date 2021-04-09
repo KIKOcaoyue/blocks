@@ -4,5 +4,3 @@ progressbar2==3.10.0
 pyyaml==5.4
 six==1.15
 toolz==0.11
-git+https://github.com/Theano/Theano.git#egg=theano
-git+https://github.com/mila-udem/fuel#egg=fuel
